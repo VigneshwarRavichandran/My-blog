@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/page/</link>
-    <description>Recent content in Pages on My New Hugo Site</description>
+    <title>Pages on Vigneshwar Ravichandran&#39;s Blog</title>
+    <link>http://vigneshwarravichandran.com/page/</link>
+    <description>Recent content in Pages on Vigneshwar Ravichandran&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://replace-this-with-your-hugo-site.com/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vigneshwarravichandran.com/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>http://replace-this-with-your-hugo-site.com/page/about/</link>
+      <link>http://vigneshwarravichandran.com/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/page/about/</guid>
-      <description>My name is Vigneshwar Ravichandran. I have the following qualities:
- I am good at problem solving I love to code Build some exciting applications  What else do you need?
-Contact me vigneshwarravichandran@gmail.com</description>
+      <guid>http://vigneshwarravichandran.com/page/about/</guid>
+      <description>  Hey guys! I am pursuing my Bachelar degree in Information Technology right now. I love programming and similar stuffs.
+ Contact me  Email ID vigneshwarravichandran@gmail.com
+ Linkedin www.linkedin.com/in/vigneshwarravichandran
+  </description>
     </item>
     
   </channel>
