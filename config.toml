@@ -1,0 +1,13 @@
+baseurl = "http://vigneshwarravichandran.com/"
+languageCode = "en-us"
+title = "Vigneshwar Ravichandran's Blog"
+theme = 'beautifulhugo'
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = ""
+
+  [[menu.main]]
+    name = "About"
+    url = "/page/about/"
